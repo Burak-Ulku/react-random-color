@@ -22,7 +22,7 @@ export default function App() {
         }}
         onClick={generateColor}
       >
-        Generate random color
+        Generate
       </button>
     </div>
   );
