@@ -13,6 +13,7 @@ export default function App() {
         alignItems: 'center',
       }}
     >
+      Generated Color: ${color}
       <button
         style={{
           padding: '40px',
